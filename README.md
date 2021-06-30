@@ -8,7 +8,7 @@
 
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pratik57&layout=compact&hide=html&theme=jolly" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Pratik57&layout=compact&hide=html,stars&theme=jolly" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center"> 
   Visitor count<br>
